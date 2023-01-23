@@ -4,7 +4,7 @@
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
-    "build": "expo start build",
+    "build": "react-scripts build",
     "tunnel": "expo start --tunnel",
     "android": "expo start --android",
     "ios": "expo start --ios",
